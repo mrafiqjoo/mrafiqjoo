@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Mohammad Rafiq Joo, PhD candidate at Indian Institute of Technology (IIT) Bombay, India.
-- 👀 I’m interested in nonlinear modeling, seismic risk, functional recovery, and resilience assessment of building structures.
-- 🌱 I’m currently learning multiple softwares like OpenSees, PELICUN, Python.
-- 💞️ I’m looking to collaborate on projects related to seismic risk and resilience assessment of RC structures
+- 👋 Hi, I’m Mohammad Rafiq Joo, PhD candidate at Indian Institute of Technology (IIT) Madras, India.
+- 👀 I’m interested in nonlinear modeling, seismic risk, functional recovery, and resilience assessment of reinforced concrete structures.
 - 📫 How to reach me ... mrafiqjoo@gmail.com
 
 <!---
